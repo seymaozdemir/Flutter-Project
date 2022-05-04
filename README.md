@@ -1,5 +1,5 @@
 # FlutterProject
- Logo Yazılım Internship Project
+Screenshots
 ![ürün düzenleme](https://user-images.githubusercontent.com/95475390/161401680-202f0169-4ecf-4956-96e7-79a289b8d1a0.png)
 ![yeni ürün ekle ](https://user-images.githubusercontent.com/95475390/161401687-2de4e199-6cef-4cb6-ad95-fbb1ae357ae4.png)
 ![liste1](https://user-images.githubusercontent.com/95475390/161401688-2f1c3a34-6ab9-4605-8939-bc137231878b.png)
